@@ -9,6 +9,6 @@ metadata:
 spec:
   containers:
   - name: demo-app
-    image: venkatce/demo-image:1.0
+    image: venkatce/demo-image:1.1
     ports:
     - containerPort: 80
